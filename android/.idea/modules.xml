@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/geolocator-3.0.1/android/geolocator.iml" filepath="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/geolocator-3.0.1/android/geolocator.iml" />
+      <module fileurl="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.0/android/google_api_availability.iml" filepath="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.0/android/google_api_availability.iml" />
+      <module fileurl="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.4.0/android/google_maps_flutter.iml" filepath="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.4.0/android/google_maps_flutter.iml" />
+      <module fileurl="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.0.0/android/permission_handler.iml" filepath="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.0.0/android/permission_handler.iml" />
+    </modules>
+  </component>
+</project>
