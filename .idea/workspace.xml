@@ -121,8 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,6 +164,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,9 +212,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="14" width="1378" height="760" extended-state="6" />
+    <frame x="-6" y="14" width="1006" height="733" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49541286" visible="true" weight="0.22885196" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49541286" visible="true" weight="0.3182773" />
       <window_info id="Captures" order="1" sideWeight="0.50609756" side_tool="true" weight="0.25" />
       <window_info id="Structure" order="2" sideWeight="0.5015244" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
@@ -224,7 +224,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Resources Explorer" order="8" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.3109756" />
-      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49773413" weight="0.15123457" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49773413" weight="0.15079366" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.3292683" />
