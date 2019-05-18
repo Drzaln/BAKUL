@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tour/page/MyHomePage.dart';
-//import 'package:tour/page/PilihPage.dart';
+import 'package:tour/page/PilihPage.dart';
 import 'package:tour/page/ProfilePage.dart';
 import 'package:flutter/cupertino.dart';
 
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(),
+      home: PilihPage(),
       routes: <String, WidgetBuilder>{
         '/HomePage': (BuildContext context) => MyHomePage(),
         '/ProfilePage': (BuildContext context) => ProfilePage(),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class PilihPage extends StatelessWidget {
+  var round = 20.0;
   @override
   Widget build(BuildContext context) {
     double tinggi = MediaQuery.of(context).size.height;
@@ -14,12 +15,44 @@ class PilihPage extends StatelessWidget {
           overflow: Overflow.visible,
           children: <Widget>[
             Positioned(
-              top: tinggi * 0.2,
-              left: lebar * 0.1,
-              child: Card(
+              top: tinggi * 0.15,
+              left: lebar / 4.5,
+              child: MaterialButton(
+                onPressed: () {
+                  print('tes');
+                },
+                color: Colors.green,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.all(
+                    Radius.circular(round),
+                  ),
+                ),
                 child: Container(
                   width: lebar / 2,
                   height: tinggi / 3,
+                  child: Center(child: Text('Pedagang')),
+                ),
+              ),
+            ),
+            Positioned(
+              top: tinggi * 0.55,
+              left: lebar / 4.5,
+              child: MaterialButton(
+                onPressed: () {
+                  print('tes2');
+                },
+                color: Colors.green,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.all(
+                    Radius.circular(round),
+                  ),
+                ),
+                child: Container(
+                  width: lebar / 2,
+                  height: tinggi / 3,
+                  child: Center(
+                    child: Text('Pembeli'),
+                  ),
                 ),
               ),
             ),
