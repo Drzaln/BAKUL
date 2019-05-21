@@ -1,4 +1,4 @@
-#Sun May 19 16:11:36 WIB 2019
+#Tue May 21 16:41:50 WIB 2019
 base.0=/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

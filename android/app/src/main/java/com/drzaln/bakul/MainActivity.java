@@ -1,4 +1,4 @@
-package com.drzaln.tour;
+package com.drzaln.bakul;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

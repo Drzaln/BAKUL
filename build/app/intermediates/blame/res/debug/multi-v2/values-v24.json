@@ -4,7 +4,7 @@
             "outputFile": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a3f0b8c355921411965ad9d07449192d/res/values-v24/values-v24.xml",
+                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/1bc5c6cfaa47f5ca80aff7adefa1f412/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

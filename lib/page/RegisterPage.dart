@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 class RegisterPage extends StatelessWidget {
   @override
@@ -7,7 +9,7 @@ class RegisterPage extends StatelessWidget {
       backgroundColor: Colors.grey[300],
       body: Container(
         width: double.infinity,
-        padding: EdgeInsets.only(top: 64.0, left: 32.0, right: 32.0),
+        padding: EdgeInsets.only(left: 32.0, right: 32.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,

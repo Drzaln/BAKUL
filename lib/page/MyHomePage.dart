@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:location/location.dart';
-import 'package:tour/page/ProfilePage.dart';
+import 'package:bakul/page/ProfilePage.dart';
 
 class MyHomePage extends StatefulWidget {
   @override
