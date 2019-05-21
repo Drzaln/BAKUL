@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue May 21 16:41:51 WIB 2019
+#Tue May 21 17:42:41 WIB 2019
 4.path=flutter_assets/gambar/bakulLogo.png
 13.baseType=DIRECTORY
 8.set=ASSET
