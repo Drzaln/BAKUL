@@ -1,9 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'RegisterPage.dart';
-
-class LoginPembeli extends StatelessWidget {
+class RegisterPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -27,14 +24,22 @@ class LoginPembeli extends StatelessWidget {
             Padding(
               padding: EdgeInsets.only(top: 16.0),
             ),
+            textField('E-mail'),
+            Padding(
+              padding: EdgeInsets.only(top: 16.0),
+            ),
             textField('Password'),
+            Padding(
+              padding: EdgeInsets.only(top: 16.0),
+            ),
+            textField('Repeat Password'),
             Padding(
               padding: EdgeInsets.only(top: 16.0),
             ),
             MaterialButton(
               onPressed: () {},
               child: Text(
-                'SIGN IN',
+                'REGISTER',
                 style: TextStyle(color: Colors.white),
               ),
               padding: EdgeInsets.only(right: 64.0, left: 64.0),
@@ -45,31 +50,8 @@ class LoginPembeli extends StatelessWidget {
                 ),
               ),
             ),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: <Widget>[
-                FlatButton(
-                  onPressed: () {
-                    registerPage(context);
-                  },
-                  child: Text(
-                    'Don`t have an account? Register',
-                    style: TextStyle(color: Colors.black45),
-                  ),
-                )
-              ],
-            ),
           ],
         ),
-      ),
-    );
-  }
-
-  void registerPage(BuildContext context) {
-    Navigator.push(
-      context,
-      CupertinoPageRoute(
-        builder: (context) => RegisterPage(),
       ),
     );
   }
