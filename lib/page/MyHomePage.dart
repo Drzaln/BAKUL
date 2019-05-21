@@ -311,5 +311,9 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
 void goProfile(BuildContext context) {
 //  Navigator.of(context).pushNamed('/ProfilePage');
   Navigator.push(
-      context, CupertinoPageRoute(builder: (context) => ProfilePage()));
+    context,
+    CupertinoPageRoute(
+      builder: (context) => ProfilePage(),
+    ),
+  );
 }
