@@ -4,24 +4,7 @@
             "outputFile": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/eead46aa50cb87f5c92f8098e0d03477/res/values-zh-rTW/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "249,348,508,621,721,887,1001,1127,1247,1416,1515,1675,1788,1949,2083,2165,2248",
-                        "endColumns": "98,159,112,99,165,113,125,119,168,98,159,112,160,133,81,82,98",
-                        "endOffsets": "347,507,620,720,886,1000,1126,1246,1415,1514,1674,1787,1948,2082,2164,2247,2346"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,368,485,589,755,873,1003,1289,1458,1561,1721,1838,1999,2137,2223,2310",
-                        "endColumns": "102,159,116,103,165,117,129,123,168,102,159,116,160,137,85,86,102",
-                        "endOffsets": "203,363,480,584,750,868,998,1122,1453,1556,1716,1833,1994,2132,2218,2305,2408"
-                    }
-                },
-                {
-                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1f8b2b311ba3a59e7a49e024938d546d/res/values-zh-rTW/values.xml",
+                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/ac64c458b1e323f82ce09236b0c62015/res/values-zh-rTW/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/88840ab81d85345274aae3d31f165454/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b90ccf2f4e3dd7fc7a6663d40c07e8cb/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -52,6 +35,23 @@
                         "startOffsets": "2413",
                         "endColumns": "100",
                         "endOffsets": "2509"
+                    }
+                },
+                {
+                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/values-zh-rTW/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "249,348,508,621,721,887,1001,1127,1247,1416,1515,1675,1788,1949,2083,2165,2248",
+                        "endColumns": "98,159,112,99,165,113,125,119,168,98,159,112,160,133,81,82,98",
+                        "endOffsets": "347,507,620,720,886,1000,1126,1246,1415,1514,1674,1787,1948,2082,2164,2247,2346"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,368,485,589,755,873,1003,1289,1458,1561,1721,1838,1999,2137,2223,2310",
+                        "endColumns": "102,159,116,103,165,117,129,123,168,102,159,116,160,137,85,86,102",
+                        "endOffsets": "203,363,480,584,750,868,998,1122,1453,1556,1716,1833,1994,2132,2218,2305,2408"
                     }
                 }
             ]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/permission_handler/intermediates/res/merged/release/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b90ccf2f4e3dd7fc7a6663d40c07e8cb/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/permission_handler/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b90ccf2f4e3dd7fc7a6663d40c07e8cb/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
