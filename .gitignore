@@ -2,3 +2,4 @@ AndroidManifest.xml
 .idea
 .vscode
 google-services.json
+/build/app/generated/res/google-services/debug/values/values.xml
