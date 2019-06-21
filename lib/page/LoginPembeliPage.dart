@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
+import 'MyHomePage.dart';
 import 'RegisterPage.dart';
 
 class LoginPembeli extends StatelessWidget {
@@ -32,7 +32,9 @@ class LoginPembeli extends StatelessWidget {
               padding: EdgeInsets.only(top: 16.0),
             ),
             MaterialButton(
-              onPressed: () {},
+              onPressed: () {
+                goHome(context);
+              },
               child: Text(
                 'SIGN IN',
                 style: TextStyle(color: Colors.white),
@@ -73,6 +75,15 @@ class LoginPembeli extends StatelessWidget {
       ),
     );
   }
+}
+
+void goHome(BuildContext context) {
+  Navigator.push(
+    context,
+    CupertinoPageRoute(
+      builder: (context) => MyHomePage(),
+    ),
+  );
 }
 
 textField(hintText) {

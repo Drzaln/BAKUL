@@ -20,6 +20,14 @@ class PilihPage extends StatelessWidget {
             Positioned(
               top: tinggi * 0.15,
               left: lebar / 4.5,
+              child: Image.asset(
+                'gambar/dagang.png',
+                height: tinggi / 4,
+              ),
+            ),
+            Positioned(
+              top: tinggi / 3,
+              left: lebar / 4.5,
               child: MaterialButton(
                 onPressed: () {
                   print('tes');
@@ -32,7 +40,7 @@ class PilihPage extends StatelessWidget {
                 ),
                 child: Container(
                   width: lebar / 2,
-                  height: tinggi / 3,
+                  height: tinggi / 16,
                   child: Center(
                       child: Text(
                     'Pedagang',
@@ -43,6 +51,14 @@ class PilihPage extends StatelessWidget {
             ),
             Positioned(
               top: tinggi * 0.55,
+              left: lebar / 4.5,
+              child: Image.asset(
+                'gambar/pembeli.png',
+                height: tinggi / 4,
+              ),
+            ),
+            Positioned(
+              bottom: tinggi / 5,
               left: lebar / 4.5,
               child: MaterialButton(
                 onPressed: () {
@@ -56,7 +72,7 @@ class PilihPage extends StatelessWidget {
                 ),
                 child: Container(
                   width: lebar / 2,
-                  height: tinggi / 3,
+                  height: tinggi / 16,
                   child: Center(
                     child: Text(
                       'Pembeli',

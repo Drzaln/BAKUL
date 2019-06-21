@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/e04b5a9ff681f638d60a972aed5e6f7c/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/e04b5a9ff681f638d60a972aed5e6f7c/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/e04b5a9ff681f638d60a972aed5e6f7c/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

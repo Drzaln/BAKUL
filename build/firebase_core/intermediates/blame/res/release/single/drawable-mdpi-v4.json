@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

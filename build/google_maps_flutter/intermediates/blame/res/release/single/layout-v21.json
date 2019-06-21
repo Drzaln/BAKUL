@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/46e38662e8115fadb043a8bd35b2b41f/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

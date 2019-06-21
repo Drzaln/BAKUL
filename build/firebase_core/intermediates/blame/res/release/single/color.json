@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/firebase_core/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a08e438d35c095718ff42d1d50a880d9/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b90ccf2f4e3dd7fc7a6663d40c07e8cb/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b90ccf2f4e3dd7fc7a6663d40c07e8cb/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b90ccf2f4e3dd7fc7a6663d40c07e8cb/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b90ccf2f4e3dd7fc7a6663d40c07e8cb/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/run/media/rizal/c0425d39-34a5-4c60-b614-72126331f36e/TugasIMK-Project/bakul/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/rizal/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b90ccf2f4e3dd7fc7a6663d40c07e8cb/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]
